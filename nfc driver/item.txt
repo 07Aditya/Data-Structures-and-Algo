@@ -1,0 +1,3 @@
+Vendor:NXP
+Category:NFC
+Module:NPC300
